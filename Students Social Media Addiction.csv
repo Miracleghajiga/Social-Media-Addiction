@@ -1,0 +1,53 @@
+Count of Addicted_Score,Column Labels,,
+Row Labels,Female,Male,Grand Total
+2,,1,1
+3,12,4,16
+4,38,45,83
+5,72,64,136
+6,30,31,61
+7,83,126,209
+8,71,73,144
+9,47,8,55
+Grand Total,353,352,705
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+Count of Gender,Column Labels,,
+Row Labels,Female,Male,Grand Total
+Facebook,24,99,123
+Instagram,172,77,249
+KakaoTalk,12,,12
+LINE,12,,12
+LinkedIn,8,13,21
+Snapchat,8,5,13
+TikTok,86,68,154
+Twitter,16,14,30
+VKontakte,,12,12
+WeChat,4,11,15
+WhatsApp,11,43,54
+YouTube,,10,10
+Grand Total,353,352,705
+,,,
+,,,
+,,,
+Row Labels,Count of Age,,
+18,14,,
+19,163,,
+20,165,,
+21,156,,
+22,147,,
+23,34,,
+24,26,,
+Grand Total,705,,
+,,,
+,,,
+Count of Affects_Academic_Performance,Column Labels,,
+Row Labels,Female,Male,Grand Total
+Graduate,48,277,325
+High School,15,12,27
+Undergraduate,290,63,353
+Grand Total,353,352,705
